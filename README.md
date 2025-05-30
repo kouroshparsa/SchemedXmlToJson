@@ -1,6 +1,12 @@
 # SchemedXmlToJson
 .Net nuget package to convert xml to json using an XSD schema to enforce types such as boolean, array, number.
 
+# How to install
+`nuget install kouroshparsa.SchemedXmlToJson`
+
+or use the nuget package manager to search for it:
+![MainForm](images/installation.png)
+
 Example1:
 ```C#
 using SchemedXmlToJson;
