@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>kouroshparsa.SchemedXmlToJson</id>
+    <version>1.0.0</version>
+    <title>SchemedXmlToJson</title>
+    <authors>Kourosh Parsa</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/kouroshparsa/SchemedXmlToJson/</projectUrl>
+    <description>This is a package for converting xml to json using xml schema file to force field types.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright © 2025 Kourosh Parsa. Licensed under GPL-3.0.</copyright>
+    <tags>XML Json XSD</tags>
+  </metadata>
+</package>
